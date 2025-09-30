@@ -1,1 +1,1 @@
-web: python Nippon_news.py
+web: python nippon_news.py
