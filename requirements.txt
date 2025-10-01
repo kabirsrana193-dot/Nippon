@@ -3,5 +3,6 @@ feedparser>=6.0.10
 transformers>=4.30.0
 pandas>=2.0.0
 plotly>=5.17.0
+torch>=2.1.0
 
 
